@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/antv.png" group-title="lokal2", ANTV
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/antv.png" group-title="lokal2", ANTV 
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/antv.png" group-title="lokal2", ANTV2
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/antv.png" group-title="lokal2", ANTV2 
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV-avc1_1000000=6-2039369618400000.mp4
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvone.png" group-title="lokal2", TVOne 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvone.png" group-title="lokal2", TVOne  
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rtv.png" group-title="lokal2", Rajawali TV 
 https://cdn10jtedge.useetv.com/joss/130/rtv/chunklist_w1320901549_b1004100_sleng.m3u8?enc=0eDHEbkTFKUM7sRBP8cSaw&uid=ZmU2MWU4ZjE4MjAxMjQ0M2FjOWRjZjg1NDE1NDU4OGM=&exp=1623993621 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/bs.png" group-title="lokal2", Berita Satu 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/bs.png" group-title="lokal2", Berita Satu  
 https://cdn10jtedge.useetv.com/joss/130/beritasatu/chunklist_w1589626597_b1004100_sleng.m3u8?enc=Z8Wa5fL5HeZweQsWWHTuNA&uid=ZmU2MWU4ZjE4MjAxMjQ0M2FjOWRjZjg1NDE1NDU4OGM=&exp=1623993627 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvedukasi.png" group-title="lokal2", TV Edukasi 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvedukasi.png" group-title="lokal2", TV Edukasi  
 https://cdn10jtedge.useetv.com/joss/134/tvedukasi/chunklist_w1223608245_b1004100_sleng.m3u8?enc=YtWKP5ho69LqdcfJ4HWg4w&uid=ZmU2MWU4ZjE4MjAxMjQ0M2FjOWRjZjg1NDE1NDU4OGM=&exp=1623993629 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="lokal2", INDOSIAR 
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar 
