@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/antv.png" group-title="lokal2", ANTV
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/antv.png" group-title="lokal2", ANTV2
+https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV-avc1_1000000=6-2039369618400000.mp4
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvone.png" group-title="lokal2", TVOne 
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rtv.png" group-title="lokal2", Rajawali TV 
