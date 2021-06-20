@@ -15,8 +15,12 @@ https://cdn10jtedge.useetv.com/joss/130/beritasatu/chunklist_w1589626597_b100410
 https://cdn10jtedge.useetv.com/joss/134/tvedukasi/chunklist_w1223608245_b1004100_sleng.m3u8?enc=YtWKP5ho69LqdcfJ4HWg4w&uid=ZmU2MWU4ZjE4MjAxMjQ0M2FjOWRjZjg1NDE1NDU4OGM=&exp=1623993629 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="lokal2", INDOSIAR 
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="lokal2", INDOSIAR 2
+http://abdrahim.my.id/live/vision.id/indosiar.m3u8
 #EXTINF:-1 tvg-id="Sctv.id" tvg-name="Sctv ID" tvg-logo="https://i.ibb.co/K6Q2z7f/sctvlogo.png" group-title="lokal2", SCTV 
-http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8 
+http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 tvg-id="Sctv.id" tvg-name="Sctv ID" tvg-logo="https://i.ibb.co/K6Q2z7f/sctvlogo.png" group-title="lokal2", SCTV 
+http://abdrahim.my.id/live/vision.id/sctv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vqO6m_0QvUDwp34CYJQwSc-ZgRI=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="lokal2", RTV 
 http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV ID" tvg-logo="https://i.ibb.co/VLG4kdY/trlogonew.png" tvg-logo="https://i.postimg.cc/26qvnw4n/transtv.png" group-title="lokal2", TRANS TV 
