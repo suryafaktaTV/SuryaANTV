@@ -6,7 +6,7 @@ http://abdrahim.my.id/live/vision.id/antv.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvone.png" group-title="lokal2", TVOne  
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvone.png" group-title="lokal2", TVOne 2 
-http://abdrahim.my.id/live/vision.id/antv.m3u8
+http://abdrahim.my.id/live/vision.id/tvone.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rtv.png" group-title="lokal2", Rajawali TV 
 https://cdn10jtedge.useetv.com/joss/130/rtv/chunklist_w1320901549_b1004100_sleng.m3u8?enc=0eDHEbkTFKUM7sRBP8cSaw&uid=ZmU2MWU4ZjE4MjAxMjQ0M2FjOWRjZjg1NDE1NDU4OGM=&exp=1623993621 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/bs.png" group-title="lokal2", Berita Satu  
