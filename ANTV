@@ -1,5 +1,6 @@
 #EXTM3U 
-
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/antv.png" group-title="lokal2", ANTV_vision
+https://www.visionplus.id/watch/channel/12/antv?cnumb=12
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/antv.png" group-title="lokal2", ANTV 
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/antv.png" group-title="lokal2", ANTV2 
