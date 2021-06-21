@@ -15,10 +15,12 @@ http://abdrahim.my.id/live/vision.id/indosiar.m3u8
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 tvg-id="Sctv.id" tvg-name="Sctv ID" tvg-logo="https://i.ibb.co/K6Q2z7f/sctvlogo.png" group-title="lokal2", SCTV_2 
 http://abdrahim.my.id/live/vision.id/sctv.m3u8
+#EXTINF:-1 tvg-logo="http://goldenlivektv.com/img/rcti.png"group-title="lokal2", RCTI HD
+http://abdrahim.my.id/live/vision.id/rcti.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vqO6m_0QvUDwp34CYJQwSc-ZgRI=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="lokal2", RTV 
 http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vqO6m_0QvUDwp34CYJQwSc-ZgRI=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="lokal2", RTV_2 
-http://abdrahim.my.id/live/vision.id/rtv.m3u8
+http://abdrahim.my.id/live/tvindo/rtv.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV ID" tvg-logo="https://i.ibb.co/VLG4kdY/trlogonew.png" tvg-logo="https://i.postimg.cc/26qvnw4n/transtv.png" group-title="lokal2", TRANS TV 
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV ID" tvg-logo="https://i.ibb.co/VLG4kdY/trlogonew.png" tvg-logo="https://i.postimg.cc/26qvnw4n/transtv.png" group-title="lokal2", TRANS TV_2
@@ -32,7 +34,7 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCYc7yzg/metrotv.png" group-title="lokal2", METRO TV 
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCYc7yzg/metrotv.png" group-title="lokal2", METRO TV2
-http://abdrahim.my.id/live/vision.id/metrotv.m3u8
+http://abdrahim.my.id/live/tvindo/metrotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D7SLMT7/cnbcindologo.png" group-title="lokal2", CNBC INDONESIA 
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://id.heytv.org/wp-content/uploads/2019/08/Jakarta-Globe-News-webtvonlive-com-2.jpg" group-title="Lokal", JAKARTA GLOBE NEWS CHANNEL 
